@@ -1,0 +1,9 @@
+{
+  "name": "oscura-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "vite build", "dev": "vite --host 127.0.0.1" },
+  "dependencies": { "pdf-lib": "1.17.1", "pdfjs-dist": "6.4.299", "react": "19.3.0", "react-dom": "19.3.0" },
+  "devDependencies": { "vite": "7.3.7" }
+}
